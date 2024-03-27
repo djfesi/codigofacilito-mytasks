@@ -1,0 +1,16 @@
+{
+  "tasklist": "Task list",
+  "@tasklist": {
+    "description": "Task application"
+  },
+  "loadtask": "Add task",
+  "editTask": "Edit task",
+  "notask": "No task found",
+  "updatedTask": "Updated task",
+  "addedTask": "Added task",
+  "details": "Details",
+  "errorOccurred": "An error occurred",
+  "title": "Title",
+  "description": "Description",
+  "mytasks": "My Tasks"
+}

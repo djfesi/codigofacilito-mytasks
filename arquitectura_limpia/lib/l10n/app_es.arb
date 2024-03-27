@@ -1,0 +1,13 @@
+{
+    "tasklist": "Lista de tareas",
+    "loadtask": "Nueva tarea",
+    "notask": "Sin tareas cargadas",
+    "addedTask": "Tarea agregada",
+    "updatedTask": "Tarea actualizada",
+    "details": "Detalles",
+    "editTask": "Editar tarea",
+    "errorOccurred": "Ocurrió un error",
+    "title": "Título",
+    "description": "Descripción",
+    "mytasks": "Mis Tareas"
+}
